@@ -38,4 +38,14 @@ A Scatter Plot is obtained of the portfolios wrt Sharpe Ratio and Lowest Volatil
 # MODULE6: CLUSTERING FOR DIVERSIFICATION ANALYSIS
 This module calculates the average percentage return and volatility of 30 Stocks over 1 year period and K-Means Clustering is applied to group similar stocks based on their performance in the market.
 
-# This Project is a part of the Machine Learning Internship done at Career Launcher.
+# References
+
+1. https://www.investopedia.com/technical-analysis-basic-education-4689655
+
+2. https://matplotlib.org/gallery/index.html
+
+3. https://seaborn.pydata.org/tutorial/distributions.html
+
+4. https://machinelearningmastery.com/basic-concepts-in-machine-learning/
+
+5. StackOverflow and Google
